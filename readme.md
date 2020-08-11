@@ -10,7 +10,7 @@ Some texts can be rough and have a lot of typos. I will be glad if you'll correc
 
 ## Table of content:
 
-* [example with specific links](country_example.md) - I hope to build something like this for all interesting countries.
+* [example of some country](country_example.md) - I hope to build something like this for all interesting countries.
 * [comparison links](comparison_links.md)
 
 
