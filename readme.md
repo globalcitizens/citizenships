@@ -5,6 +5,7 @@ And probably residentship if somebody will contribute in this field separately s
 
 It's free of marketing shit and free as free speech. The only way to succed is to contribute.
 Please share the data you have in PRs, you can do it right in this website (edit button top right corner).
+You can write usable data in clear text with links. I can add markdown layout part for you.
 
 Some texts can be rough and have a lot of typos. I will be glad if you'll correct those as well.
 
