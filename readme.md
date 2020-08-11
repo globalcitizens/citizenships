@@ -1,3 +1,4 @@
+# Getting citizenships comparison
 
 This repository is an attepmt to build knowledge base of possibilities for getting another citizenship.
 And probably residentship if somebody will contribute in this field separately since it's much bigger topic.
@@ -7,7 +8,7 @@ Please share the data you have in PRs, you can do it right in this website (edit
 
 Some texts can be rough and have a lot of typos. I will be glad if you'll correct those as well.
 
-Table of content:
+## Table of content:
 
 * [example with specific links](country_example.md) - I hope to build something like this for all interesting countries.
 * [comparison links](comparison_links.md)
