@@ -17,7 +17,9 @@ Some texts can be rough and have a lot of typos. I will be glad if you'll correc
 * [example of some country](country_example.md) - I hope to build something like this for all interesting countries.
 * [comparison links](comparison_links.md)
 
+
 * [France](France.md)
+* [Spain](Spain.md)
 
 
 
