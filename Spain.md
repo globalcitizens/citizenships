@@ -1,10 +1,19 @@
 # Spain
 
-## Tax free residence permit
+## residence permit
 
-### [Non-lucrative visa - english](https://www.barcelona-metropolitan.com/living/settling-in/what-you-need-to-know-about-spains-non-lucrative-visa/)
+### Freelance visa - autonomo
 
-_link to official requrements needed_
+_Find link_
+
+- Allows you to work in Spain
+- You have to pay Taxes and other mandatory payments in Spain
+
+### [you can no longer work remotely on the non-lucrative Visa.](https://www.expatexchange.com/expatguide/296/3443360/Spain/Expats-Living-in-Spain/Working-Remotely)
+
+Check that ^^^
+#### [Non-lucrative visa - english](https://www.barcelona-metropolitan.com/living/settling-in/what-you-need-to-know-about-spains-non-lucrative-visa/)
+
 
 ##### Check details in a website of Spanish embassy in a country of your residence/citizenship
 
