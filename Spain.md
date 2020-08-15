@@ -4,7 +4,7 @@
 
 ### [Non-lucrative visa - english](https://www.barcelona-metropolitan.com/living/settling-in/what-you-need-to-know-about-spains-non-lucrative-visa/)
 
-_link to official requrement needed_
+_link to official requrements needed_
 
 ##### Check details in a website of Spanish embassy in a country of your residence/citizenship
 
