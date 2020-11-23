@@ -2,7 +2,7 @@ Most handy DN visas are tourist or passive income viass and are in separate file
 
 Some countries providing those:
 
-* (Antigua and Barbuga)[https://www.insider.com/remote-work-caribbean-antigua-and-barbuda-2020-10]
+* [Antigua and Barbuga](https://www.insider.com/remote-work-caribbean-antigua-and-barbuda-2020-10)
 * Germany (Berlin)
 * Estonia
-* (UAE (Dubai))[https://www.insider.com/live-work-dubai-digital-nomad-remote-visa-2020-10]
+* [UAE (Dubai)](https://www.insider.com/live-work-dubai-digital-nomad-remote-visa-2020-10)
