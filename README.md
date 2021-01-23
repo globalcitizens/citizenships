@@ -24,6 +24,7 @@ Some texts can be rough and have a lot of typos. I will be glad if you'll correc
 * [Portugal](Portugal.md)
 * [Spain](Spain.md)
 * [Slovenia](Slovenia.md)
+* [Thailand](Thailand.md)
 
 
 
