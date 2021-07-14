@@ -1,5 +1,7 @@
 Most handy DN visas are tourist or passive income viass and are in separate files in this project. In fact most Digital nomad visas are expact visas that allowing remote work and forcing you to pay taxes locally.
 
+Nice website with summary https://nomadvisa.io/nomadvisa
+
 ## Some countries providing those:
 
 * [Antigua and Barbuga](https://www.insider.com/remote-work-caribbean-antigua-and-barbuda-2020-10)
