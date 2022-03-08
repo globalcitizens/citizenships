@@ -18,6 +18,10 @@ minimum salary of 2,000 dollars per month to be eligible to apply....
 * Portugal.
 * Estonia
 
+2700 eur+ per months
+
+* [Malta](https://nomad.residencymalta.gov.mt/). This is the only official and public entity for the program.
+
 The monthly payment for the six months preceding the visa application should be 3,504 Euro (Rs 3, 08...
 
 * [UAE (Dubai)](https://www.insider.com/live-work-dubai-digital-nomad-remote-visa-2020-10)
